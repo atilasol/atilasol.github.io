@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "Hello World, My First Blog Post"
 date: 2025-04-11
-categories: personal
+categories: [personal]
 ---
 
 Welcome to my blog! 🎉
