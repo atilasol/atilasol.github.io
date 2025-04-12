@@ -2,6 +2,7 @@
 title: "Hello World, My First Blog Post"
 date: 2025-04-11
 categories: [personal]
+author: atilasol
 ---
 
 Welcome to my blog! 🎉
@@ -14,4 +15,4 @@ Expect a mix of:
 - Travel reflections
 - And whatever else I feel like documenting
 
-Thanks for stopping by! 😊
+Thanks for stopping by!
